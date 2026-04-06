@@ -1,0 +1,39 @@
+{
+  "appName": "CT(Candidates Tracking) Portal Partners - B2B End Users Invitations API Service",
+  "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by SkillworksIT <contact@skillworksit.com>, Aug 2024",
+
+  "uType": "B2B User",
+  "atStr": "abcdefghijklmNOPQRSTUVWXYZnopqrstuvwxyzabcdefghijklmABCDEFGHIJKLMnopqrstuvwxyz",
+  "cCode": "IND",
+  "sCode": "TS",
+  "gUser": "Consultant",
+  "mpType": "Email",
+  "errMsgs": {
+    "invFld": "Invitation failed",
+    "invSucs": "Invitation sent successfully",
+    "reInvMsg": "Already invitation sent to this mail. Still you want to send, click on Re-Invite"
+  },
+  "openStatus": "Open",
+  "mstatus": {
+    "sc": "Scheduled",
+    "cl": "Cancelled",
+    "ct": "Completed"
+  },
+  "uniq": {
+    "emlErr": "Account already exists with this email",
+    "uidErr": "Account already exists with this User ID"
+  },
+  "utApp": "App",
+  "utech": "Tech",
+  "utm": "Management",
+  "sa": "Super Admin",
+  "aStatus": "Approved",
+  "rStatus": "Rejected",
+  "iFrom": "Invitations",
+  "cdmn": {
+    "swit": "https://ctportal.skillworksit.com/#/",
+    "metrix": "https://ctportal.metrixit.com/#/",
+    "teksolve": "https://ctportal.teksolveit.com/#/",
+    "epicit": "https://ctportal.epicitsol.com/#/"
+  }
+}

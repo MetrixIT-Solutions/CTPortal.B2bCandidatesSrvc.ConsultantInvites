@@ -1,0 +1,26 @@
+{
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by SkillworksIT <contact@skillworksit.com>, Aug 2024",
+    "mongoDBConnection": "mongodb://localhost:27017/ctp_b2b_end_users_invites",
+
+    "senderMail": "skillworksit@gmail.com",
+    "senderMailPswd": "nvkldrtevztbkvyv",
+    "smtp": "smtp.gmail.com",
+    "smtpPort": 465,
+    "from": "NoReply<skillworksit@gmail.com>",
+    "jwtSecretKey": "CTP!&J*$D@-kv^NPa6ter$|Dev",
+    "criptoTokenKey": "AK17!&J*$D@^N|Ctp@B2b#Apkv22|Dev",
+    "dbSecretKey": "CtpDB@AK17!&*$D@^N|B2B#A22kv|Dev",
+
+    "ssnApi": "http://localhost:3401/ctpb2b/v1/users/auth-user/session",
+    "roleApi": "http://localhost:3403/ctpb2b/v1/rolesaccess/role-user",
+
+    "inviteCnsltntApi": "http://localhost:3411/ctpb2b/v1/eusr/invite/consultant",
+    "inviteEuInfoApi": "http://localhost:3411/ctpb2b/v1/eusr/invite/info",
+    "dltconsltApi": "http://localhost:3411/ctpb2b/v1/eusr/consultant/delete/",
+    "getSmtpDetailsApi": "http://localhost:3404/ctpb2b/v1/entities/get/smtp/details",
+
+    "petitionAprvdUpdateApi": "http://localhost:3431/ctpb2b/v1/eusr/h1bpetition/ppaprvd/update/",
+    "ofrLtrAprvdUpdateApi": "http://localhost:3432/ctpb2b/v1/eusr/ofrltr/olpaprvd/update/",
+
+    "apiHost": "http://localhost:3412/"
+}

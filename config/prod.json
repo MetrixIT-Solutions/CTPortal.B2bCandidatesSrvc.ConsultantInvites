@@ -1,0 +1,26 @@
+{
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by SkillworksIT <contact@skillworksit.com>, Aug 2024",
+    "mongoDBConnection": "mongodb://localhost:8127/ctpsw_b2b_end_users_invites",
+
+    "senderMail": "skillworksit@gmail.com",
+    "senderMailPswd": "nvkldrtevztbkvyv",
+    "smtp": "smtp.gmail.com",
+    "smtpPort": 465,
+    "from": "NoReply<skillworksit@gmail.com>",
+    "jwtSecretKey": "2Pa6ter$!&8J*$D-kv^N@Ctp|Prod",
+    "criptoTokenKey": "Akv12B2B#!&J*$D@^N|AK17@Ctp|Prod",
+    "dbSecretKey": "KvDB@K17!&*$D@^N|B2b#A22CTP|Prod",
+
+    "ssnApi": "https://ctb2blvapi.skillworksit.com/oauth/ctpb2b/v1/users/auth-user/session",
+    "roleApi": "https://ctb2blvapi.skillworksit.com/usroles/ctpb2b/v1/rolesaccess/role-user",
+
+    "inviteCnsltntApi": "https://ctb2blvapi.skillworksit.com/euusrs/ctpb2b/v1/eusr/invite/consultant",
+    "inviteEuInfoApi": "https://ctb2blvapi.skillworksit.com/euusrs/ctpb2b/v1/eusr/invite/info",
+    "dltconsltApi": "https://ctb2blvapi.skillworksit.com/euusrs/ctpb2b/v1/eusr/consultant/delete/",
+    "getSmtpDetailsApi": "https://ctb2blvapi.skillworksit.com/orgs/ctpb2b/v1/entities/get/smtp/details",
+
+    "petitionAprvdUpdateApi": "https://ctb2blvapi.skillworksit.com/hbptns/ctpb2b/v1/eusr/h1bpetition/ppaprvd/update/",
+    "ofrLtrAprvdUpdateApi": "https://ctb2blvapi.skillworksit.com/ofrltrs/ctpb2b/v1/eusr/ofrltr/olpaprvd/update/",
+
+    "apiHost": "https://ctb2blvapi.skillworksit.com/euinvts/"
+}
