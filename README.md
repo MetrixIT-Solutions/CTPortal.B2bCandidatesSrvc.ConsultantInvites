@@ -5,7 +5,7 @@ CT(Candidates Tracking) Portal Partners - B2B End Users Invitations API Service.
 
 Clone an existing Git repository with the following command:
 
-1. cd ../workspace/CTPortal/B2B/Services/CandidatesInvitations/
+1. cd ../workspace/CTPortal/B2B/Services/Candidates(Applicants)/
 2. Clone the repo using following git command: `git clone https://github.com/MetrixIT-Solutions/CTPortal.B2bCandidatesSrvc.ConsultantInvites.git`
 3. Go to the appropriate directory to start the Api service: `cd CTPortal.B2bCandidatesSrvc.ConsultantInvites`
 4. Node version `>=20.16.0` and npm version `>=10.8.1`
